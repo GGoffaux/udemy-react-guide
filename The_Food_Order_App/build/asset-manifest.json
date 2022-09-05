@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c72241e.chunk.css",
-    "main.js": "/static/js/main.bddc7040.chunk.js",
-    "main.js.map": "/static/js/main.bddc7040.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c9eda263.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c9eda263.js.map",
-    "static/js/2.abea31d3.chunk.js": "/static/js/2.abea31d3.chunk.js",
-    "static/js/2.abea31d3.chunk.js.map": "/static/js/2.abea31d3.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c72241e.chunk.css.map": "/static/css/main.8c72241e.chunk.css.map",
-    "static/js/2.abea31d3.chunk.js.LICENSE.txt": "/static/js/2.abea31d3.chunk.js.LICENSE.txt",
-    "static/media/meals.2971f633.jpg": "/static/media/meals.2971f633.jpg"
+    "main.css": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/css/main.8c72241e.chunk.css",
+    "main.js": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/main.bddc7040.chunk.js",
+    "main.js.map": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/main.bddc7040.chunk.js.map",
+    "runtime-main.js": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/runtime-main.775f36f7.js",
+    "runtime-main.js.map": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/runtime-main.775f36f7.js.map",
+    "static/js/2.abea31d3.chunk.js": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/2.abea31d3.chunk.js",
+    "static/js/2.abea31d3.chunk.js.map": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/2.abea31d3.chunk.js.map",
+    "index.html": "/UDEMY_REACT_GUIDE/The_Food_Order_App/index.html",
+    "static/css/main.8c72241e.chunk.css.map": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/css/main.8c72241e.chunk.css.map",
+    "static/js/2.abea31d3.chunk.js.LICENSE.txt": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/js/2.abea31d3.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/UDEMY_REACT_GUIDE/The_Food_Order_App/static/media/meals.2971f633.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c9eda263.js",
+    "static/js/runtime-main.775f36f7.js",
     "static/js/2.abea31d3.chunk.js",
     "static/css/main.8c72241e.chunk.css",
     "static/js/main.bddc7040.chunk.js"
