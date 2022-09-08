@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/css/main.62880b71.chunk.css",
+    "main.js": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/main.55fb9e11.chunk.js",
+    "main.js.map": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/main.55fb9e11.chunk.js.map",
+    "runtime-main.js": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/runtime-main.c67f7e32.js",
+    "runtime-main.js.map": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/runtime-main.c67f7e32.js.map",
+    "static/js/2.6e3e4aeb.chunk.js": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/2.6e3e4aeb.chunk.js",
+    "static/js/2.6e3e4aeb.chunk.js.map": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/2.6e3e4aeb.chunk.js.map",
+    "index.html": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/index.html",
+    "static/css/main.62880b71.chunk.css.map": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/css/main.62880b71.chunk.css.map",
+    "static/js/2.6e3e4aeb.chunk.js.LICENSE.txt": "/UDEMY_REACT_GUIDE/The_Expense_Tracker/build/static/js/2.6e3e4aeb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c67f7e32.js",
+    "static/js/2.6e3e4aeb.chunk.js",
+    "static/css/main.62880b71.chunk.css",
+    "static/js/main.55fb9e11.chunk.js"
+  ]
+}
