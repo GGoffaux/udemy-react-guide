@@ -4,7 +4,7 @@ This document lists mini-projects related to REACT programming as well as other 
 
 The mini-projets are : 
 
-- ** The Food App ** : 
+- [The Food App](https://ggoffaux.github.io/udemy-react-guide/The_Food_Order_App/build) : a list of food items and a cart to shop !
 
 
 
